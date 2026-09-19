@@ -1,0 +1,6 @@
+{
+  "name": "Ad Pulse AI",
+  "description": "Futuristic AI Advertisement Generator for generating high-converting cinematic image and video ads with FastAPI backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
